@@ -73,7 +73,7 @@
     <display-name>MLB18</display-name>
     <display-name>MLB 18</display-name>
   </channel>
-  <programme start="20190328130000 +0400" stop="20190328160000 +0400" channel="MLB1.jc">
+  <programme start="20190328130000 -0400" stop="20190328160000 -0400" channel="MLB1.jc">
     <title>New York Mets vs. Washington Nationals</title>  
   </programme>
   <programme start="20190328130000 +0400" stop="20190328160000 +0400" channel="MLB2.jc">
