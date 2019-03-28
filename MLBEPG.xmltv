@@ -73,46 +73,46 @@
     <display-name>MLB18</display-name>
     <display-name>MLB 18</display-name>
   </channel>
-  <programme start="20190328130000 +0000" stop="20190328160000 +0000" channel="MLB1.jc">
+  <programme start="20190328130000 +0400" stop="20190328160000 +0400" channel="MLB1.jc">
     <title>New York Mets vs. Washington Nationals</title>  
   </programme>
-  <programme start="20190328130000 +0000" stop="20190328160000 +0000" channel="MLB2.jc">
+  <programme start="20190328130000 +0400" stop="20190328160000 +0400" channel="MLB2.jc">
     <title>New York Yankees vs. Baltimore Orioles</title>  
   </programme>
-  <programme start="20190328140000 +0000" stop="20190328170000 +0000" channel="MLB3.jc">
+  <programme start="20190328140000 +0400" stop="20190328170000 +0400" channel="MLB3.jc">
     <title>St. Louis Cardinals vs. Milwaukee Brewers</title>  
   </programme>
-  <programme start="20190328150000 +0000" stop="20190328180000 +0000" channel="MLB4.jc">
+  <programme start="20190328150000 +0400" stop="20190328180000 +0400" channel="MLB4.jc">
     <title>Atlanta Braves vs. Philadelphia Phillies</title>  
   </programme>
-  <programme start="20190328153000 +0000" stop="20190328183000 +0000" channel="MLB5.jc">
+  <programme start="20190328153000 +0400" stop="20190328183000 +0400" channel="MLB5.jc">
     <title>Detroit Tigers vs. Toronto Blue Jays</title>  
   </programme>
-  <programme start="20190328160000 +0000" stop="20190328190000 +0000" channel="MLB6.jc">
+  <programme start="20190328160000 +0400" stop="20190328190000 +0400" channel="MLB6.jc">
     <title>Houston Astros vs. Tampa Bay Rays</title>  
   </programme>
-  <programme start="20190328160000 +0000" stop="20190328190000 +0000" channel="MLB7.jc">
+  <programme start="20190328160000 +0400" stop="20190328190000 +0400" channel="MLB7.jc">
     <title>Chicago Cubs vs. Texas Rangers</title>  
   </programme>
-  <programme start="20190328160000 +0000" stop="20190328190000 +0000" channel="MLB8.jc">
+  <programme start="20190328160000 +0400" stop="20190328190000 +0400" channel="MLB8.jc">
     <title>Anaheim Angels vs. Oakland Athletics</title>  
   </programme>
-  <programme start="20190328160000 +0000" stop="20190328190000 +0000" channel="MLB9.jc">
+  <programme start="20190328160000 +0400" stop="20190328190000 +0400" channel="MLB9.jc">
     <title>Pittsburg Pirates vs. Cincinatti Reds</title>  
   </programme>
-  <programme start="20190328160000 +0000" stop="20190328190000 +0000" channel="MLB10.jc">
+  <programme start="20190328160000 +0400" stop="20190328190000 +0400" channel="MLB10.jc">
     <title>Colorado Rockies vs. Florida Marlins</title>  
   </programme>
-  <programme start="20190328160000 +0000" stop="20190328190000 +0000" channel="MLB11.jc">
+  <programme start="20190328160000 +0400" stop="20190328190000 +0400" channel="MLB11.jc">
     <title>Cleveland Indians vs. Minnesota Twins</title>  
   </programme>
-  <programme start="20190328160000 +0000" stop="20190328190000 +0000" channel="MLB12.jc">
+  <programme start="20190328160000 +0400" stop="20190328190000 +0400" channel="MLB12.jc">
     <title>San Fransisco Giants vs. San Diego Padres</title>  
   </programme>
-  <programme start="20190328160000 +0000" stop="20190328190000 +0000" channel="MLB13.jc">
+  <programme start="20190328160000 +0400" stop="20190328190000 +0400" channel="MLB13.jc">
     <title>Arizona Diamondbacks vs. Los Angeles Dodgers</title>  
   </programme>
-  <programme start="20190328161500 +0000" stop="20190328191500 +0000" channel="MLB14.jc">
+  <programme start="20190328161500 +0400" stop="20190328191500 +0400" channel="MLB14.jc">
     <title>Chicago White Sox vs. Kansas City Royals</title>  
   </programme>
   <programme start="20190328190000 +0400" stop="20190328220000 +0400" channel="MLB15.jc">
